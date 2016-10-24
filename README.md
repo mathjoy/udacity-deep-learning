@@ -3,6 +3,10 @@
 # udacity-deep-learning
 Assignments of the Udacity MOOC Deep Learning
 
+Assignments for Udacity Deep Learning class with TensorFlow
+
+Course information can be found at https://www.udacity.com/course/deep-learning--ud730
+
 This repository contains the assignments I have done during the [Udacity MOOC on Deep Learning with Google][udacity-deep-learning]. The course is free but there is no support expect if you register to a [nanodegree program][udacity-nanodegree]. That's why I'm sharing my homeworks with as much comments as possible, you may find them useful.
 
 **Disclaimer:** there is probably a code of conduct if you are enrolled in the nanodegree. Copying the code from the repository and pretending it to be sure would be bad. Even looking into it may be an infringement. Talk to your instructor.
